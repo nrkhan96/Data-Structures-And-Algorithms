@@ -1,0 +1,7 @@
+C:\Projects\DataStructuresAndAlgorithms\Arrays\bin\Debug\Arrays.exe.config
+C:\Projects\DataStructuresAndAlgorithms\Arrays\bin\Debug\Arrays.exe
+C:\Projects\DataStructuresAndAlgorithms\Arrays\bin\Debug\Arrays.pdb
+C:\Projects\DataStructuresAndAlgorithms\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Projects\DataStructuresAndAlgorithms\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\DataStructuresAndAlgorithms\Arrays\obj\Debug\Arrays.exe
+C:\Projects\DataStructuresAndAlgorithms\Arrays\obj\Debug\Arrays.pdb
